@@ -47,4 +47,4 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-
+![CodeCogsEqn](https://user-images.githubusercontent.com/50888610/61193368-0bc98f80-a689-11e9-9904-00fe46c9f5ba.gif)
